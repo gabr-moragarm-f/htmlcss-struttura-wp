@@ -24,6 +24,7 @@
 header{
   height: 150px;
   background: yellow;
+  margin-top: 20px;
 }
 
 .page-center{
@@ -31,22 +32,24 @@ header{
 }
 
 nav{
-  width: 300px;
+  width: 290px;
   height: 400px;
   background: cyan;
 }
 
 main{
-  width: 600px;
+  width: 580px;
   height: 600px;
   background: purple;
+  margin: 0 20px;
 }
 
 .navbar-right nav{
   height: 250px;
+  margin-bottom: 20px;
 }
 
 footer{
-  height: 200px;
+  height: 100px;
   background: lightgrey;
 }
