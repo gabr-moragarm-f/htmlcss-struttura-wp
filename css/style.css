@@ -3,3 +3,50 @@
   margin: 0;
   padding: 0;
 }
+
+/* utilities */
+.float-l{
+  float: left;
+}
+
+.clearfix{
+  content: "";
+  display: table;
+  clear: both;
+}
+/* /utilities */
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+header{
+  height: 150px;
+  background: yellow;
+}
+
+.page-center{
+  padding: 10px 0;
+}
+
+nav{
+  width: 300px;
+  height: 400px;
+  background: cyan;
+}
+
+main{
+  width: 600px;
+  height: 600px;
+  background: purple;
+}
+
+.navbar-right nav{
+  height: 250px;
+}
+
+footer{
+  height: 200px;
+  background: lightgrey;
+}
